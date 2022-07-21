@@ -1,0 +1,24 @@
+.solar-system {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.solar-system-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+  width: 80%;
+  height: 3em;
+  border: 2px solid gray;
+  border-radius: 15px;
+  background-color: rgb(128, 128, 128, 0.1);
+}
+
+.solar-system-planets {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 2% 4%;
+}

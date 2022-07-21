@@ -1,0 +1,48 @@
+.missions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.missions-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+  width: 80%;
+  height: 3em;
+  border: 2px solid gray;
+  border-radius: 15px;
+  background-color: rgb(128, 128, 128, 0.1);
+}
+
+.missions-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px 5%;
+}
+
+.missions-content div {
+  margin: 10px;
+  width: 20%;
+  margin: 10px 3%;
+  line-height: 150%;
+  border: 2px solid gray;
+  border-radius: 15px;
+  background-color: rgb(128, 128, 128, 0.1);
+}
+
+.mission-text-container {
+  margin: 8% 0;
+}
+
+.missions-content div h3 {
+  margin: 10px 0;
+}
+
+.missions-content div p {
+  display: flex;
+  justify-content: left;
+  margin-left: 8%;
+}

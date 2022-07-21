@@ -1,3 +1,11 @@
+* {
+  margin: 0;
+}
+
 .App {
   text-align: center;
+  background-image: url('./images/background.png');
+  /* background-image: url(https://conteudo.imguol.com.br/c/noticias/8e/2022/07/11/imagem-mais-distante-e-profunda-ja-feita-do-universo-capturada-pelo-telescopio-james-webb-1657578555332_v2_3x4.jpg); */
+  background-size: cover;
+  color: white;
 }

@@ -1,0 +1,40 @@
+.planet-card {
+  width: 20%;
+  margin: 0 -2em;
+}
+
+.planet-card img {
+  width: 100%;
+}
+
+#Mercúrio img {
+  width: 30%;
+}
+
+#Vênus img {
+  width: 60%;
+}
+
+#Terra img {
+  width: 65%;
+}
+
+#Marte img {
+  width: 40%;
+}
+
+#Júpiter img {
+  width: 100%;
+}
+
+#Saturno img {
+  width: 100%;
+}
+
+#Urano img {
+  width: 70%;
+}
+
+#Netuno img {
+  width: 70%;
+}
